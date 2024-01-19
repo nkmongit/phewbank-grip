@@ -1,0 +1,86 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "accountNumber": "12345678",
+    "balance": 1000
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "accountNumber": "87654321",
+    "balance": 1500
+  },
+  {
+    "firstName": "Amit",
+    "lastName": "Patel",
+    "email": "amit.patel@example.com",
+    "accountNumber": "11112222",
+    "balance": 1200
+  },
+  {
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "email": "priya.sharma@example.com",
+    "accountNumber": "33334444",
+    "balance": 2000
+  },
+  {
+    "firstName": "Raj",
+    "lastName": "Verma",
+    "email": "raj.verma@example.com",
+    "accountNumber": "55556666",
+    "balance": 800
+  },
+  {
+    "firstName": "Neha",
+    "lastName": "Srivastava",
+    "email": "neha.srivastava@example.com",
+    "accountNumber": "77778888",
+    "balance": 1700
+  },
+  {
+    "firstName": "Vijay",
+    "lastName": "Kumar",
+    "email": "vijay.kumar@example.com",
+    "accountNumber": "99990000",
+    "balance": 2500
+  },
+  {
+    "firstName": "Anita",
+    "lastName": "Singh",
+    "email": "anita.singh@example.com",
+    "accountNumber": "12121212",
+    "balance": 1300
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Gupta",
+    "email": "rahul.gupta@example.com",
+    "accountNumber": "34343434",
+    "balance": 1800
+  },
+  {
+    "firstName": "Sneha",
+    "lastName": "Mishra",
+    "email": "sneha.mishra@example.com",
+    "accountNumber": "56565656",
+    "balance": 1600
+  },
+  {
+    "firstName": "Arun",
+    "lastName": "Yadav",
+    "email": "arun.yadav@example.com",
+    "accountNumber": "78787878",
+    "balance": 900
+  },
+  {
+    "firstName": "Pooja",
+    "lastName": "Joshi",
+    "email": "pooja.joshi@example.com",
+    "accountNumber": "90909090",
+    "balance": 2100
+  }
+]
