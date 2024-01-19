@@ -56,6 +56,6 @@ cd frontend
 npm install
 ```
 
-![Customers List]('https://github.com/nkmongit/phewbank-grip/blob/main/images/phew-customerslist.png')
+![Customers List]('./images/phew-customerslist.png')
 
-![Send Money]('https://github.com/nkmongit/phewbank-grip/blob/main/images/phew-sendmoney.png')
+![Send Money]('./images/phew-sendmoney.png')
