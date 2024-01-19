@@ -8,12 +8,6 @@ Phew Bank is a full-stack banking application that allows users to perform trans
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Backend](#backend)
-- [Frontend](#frontend)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
