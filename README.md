@@ -56,6 +56,6 @@ cd frontend
 npm install
 ```
 
-![Customers List]('./images/phew-customerslist.png')
+![Customers List](`./images/phew-customerslist.png)
 
 ![Send Money]('./images/phew-sendmoney.png')
